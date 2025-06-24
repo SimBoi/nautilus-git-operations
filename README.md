@@ -1,18 +1,3 @@
-# 🐚 Nautilus Extension Collection
-
-A collection of simple and useful Python extensions for the Nautilus file manager, built with `python3-nautilus`.
-
-## 📦 Available Extensions
-
-- [Open Directory in VS Code](https://github.com/not_simboi/nautilus-open-in-vscode)
-  Right-click directory/background to open folder in vs code.
-
-- [Create New File Dialog](https://github.com/not_simboi/nautilus-create-new-file)
-  Create new file dialog to create files with custom names and extensions instead of the default templates.
-
-- [Git Clone To Current Directory](https://github.com/not_simboi/nautilus-git-clone)
-  Git clone dialog to clone a url to the current directory
-
 # Git Clone To Current Directory
 
 An extension for Nautilus, adds a menu item to the right-click menu to clone a remote git repository to the current directory, opens a dialog that takes the remote url and the name of the directory to create and clone inside of.
