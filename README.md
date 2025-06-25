@@ -1,6 +1,12 @@
-# Git Clone To Current Directory
+# Git Operations For Nautilus
 
-An extension for Nautilus, adds a menu item to the right-click menu to clone a remote git repository to the current directory, opens a dialog that takes the remote url and the name of the directory to create and clone inside of.
+An extension for Nautilus, adds an additional menu to the right-click menu for performing git operations on the current directory, operations include:
+- clone
+- status
+- switch branch
+- pull
+- stage all and commit
+- push
 
 Check my [nautilus extension collection](https://github.com/SimBoi/nautilus-extension-collection).
 
@@ -13,7 +19,7 @@ Check my [nautilus extension collection](https://github.com/SimBoi/nautilus-exte
 	sudo apt install -y python3-nautilus
 	# 2. download the extension script
 	mkdir -p ~/.local/share/nautilus-python/extensions
-	curl -L -o ~/.local/share/nautilus-python/extensions/nautilus-git-clone.py https://raw.githubusercontent.com/not_simboi/nautilus-git-clone/main/nautilus-git-clone.py
+	curl -L -o ~/.local/share/nautilus-python/extensions/nautilus-git-operations.py https://raw.githubusercontent.com/not_simboi/nautilus-git-operations/main/nautilus-git-operations.py
 	# 3. restart nautilus
 	nautilus -q
 	```
