@@ -7,7 +7,7 @@ An extension for Nautilus, adds an additional menu to the right-click menu for p
 - pull
 - stage all and commit
 - push
-- Set Credentials
+- set credentials
 
 Check my [nautilus extension collection](https://github.com/SimBoi/nautilus-extension-collection).
 
