@@ -20,7 +20,7 @@ Check my [nautilus extension collection](https://github.com/SimBoi/nautilus-exte
 	sudo apt install -y git python3-nautilus
 	# 2. download the extension script
 	mkdir -p ~/.local/share/nautilus-python/extensions
-	curl -L -o ~/.local/share/nautilus-python/extensions/nautilus-git-operations.py https://raw.githubusercontent.com/not_simboi/nautilus-git-operations/main/nautilus-git-operations.py
+	curl -L -o ~/.local/share/nautilus-python/extensions/nautilus-git-operations.py https://raw.githubusercontent.com/simboi/nautilus-git-operations/main/nautilus-git-operations.py
 	# 3. restart nautilus
 	nautilus -q
 	```
