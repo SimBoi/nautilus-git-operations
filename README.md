@@ -17,7 +17,7 @@ Check my [nautilus extension collection](https://github.com/SimBoi/nautilus-exte
    ```bash
 	# 1. install python3-nautilus
 	sudo apt update
-	sudo apt install -y python3-nautilus
+	sudo apt install -y git python3-nautilus
 	# 2. download the extension script
 	mkdir -p ~/.local/share/nautilus-python/extensions
 	curl -L -o ~/.local/share/nautilus-python/extensions/nautilus-git-operations.py https://raw.githubusercontent.com/not_simboi/nautilus-git-operations/main/nautilus-git-operations.py
