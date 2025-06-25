@@ -15,7 +15,7 @@ Check my [nautilus extension collection](https://github.com/SimBoi/nautilus-exte
 
 1. Run in the terminal:
    ```bash
-   	# 1. install python3-nautilus
+	# 1. install python3-nautilus
 	sudo apt update
 	sudo apt install -y python3-nautilus
 	# 2. download the extension script
