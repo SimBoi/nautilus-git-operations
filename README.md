@@ -30,7 +30,7 @@ Check my [nautilus extension collection](https://github.com/SimBoi/nautilus-exte
 
 1. Run in the terminal:
 	```bash
-	rm -f ~/.local/share/nautilus-python/extensions/nautilus-git-clone.py
+	rm -f ~/.local/share/nautilus-python/extensions/nautilus-git-operations.py
 	# restart Nautilus
 	nautilus -q
 	````
